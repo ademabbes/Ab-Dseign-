@@ -1,0 +1,21 @@
+body{
+	background: silver;
+}
+h1{
+	color: darkred;
+}
+hr{
+	position: absolute;
+	left: 575px;
+	top: 460px;
+}
+.fig1{
+	position:absolute;
+	z-index: 160;
+	left: 350px;
+}
+.fig2{
+	position:absolute;
+	top: 450px;
+	left: 350px;
+}
